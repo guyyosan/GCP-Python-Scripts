@@ -1,10 +1,10 @@
 # GCP-Python-Scripts
 
 ## Getting started
-Install requirements
-`python3 -m venv .venv`
-`source .venv/bin/activate`
-`pip install requirements`
+Install requirements<br/>
+`python3 -m venv .venv`<br/>
+`source .venv/bin/activate`<br/>
+`pip install requirements`<br/>
 
 ### Cloud Run
 #### delete_revisions.py
