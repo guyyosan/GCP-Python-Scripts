@@ -12,12 +12,12 @@ Install requirements
 
 Manage Google Cloud Run revisions.
 
-options:
-  -h, --help            show this help message and exit
-  -p PROJECT_ID, --project-id PROJECT_ID
-                        Google Cloud project ID.
-  -l LOCATION, --location LOCATION
-                        Google Cloud region.
-  -s SERVICE, --service SERVICE
-                        Cloud Run service name.
-  -k KEEP, --keep KEEP  Number of revisions to keep. Must be at least 10.
+options:<br/>
+  -h, --help            show this help message and exit<br/>
+  -p PROJECT_ID, --project-id PROJECT_ID<br/>
+                        Google Cloud project ID.<br/>
+  -l LOCATION, --location LOCATION<br/>
+                        Google Cloud region.<br/>
+  -s SERVICE, --service SERVICE<br/>
+                        Cloud Run service name.<br/>
+  -k KEEP, --keep KEEP  Number of revisions to keep. Must be at least 10.<br/>
